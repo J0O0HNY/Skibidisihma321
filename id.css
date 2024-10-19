@@ -16,6 +16,10 @@
 body{
     background-color: #f5f6fb;
 }
+:fullscreen, ::backdrop {
+    background-color: #f5f6fb;
+}
+
 
 .back_img{
     width: 17px;
